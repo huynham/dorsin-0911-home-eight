@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dorsin-0911-home-eight/static/css/main.12821e28.chunk.css",
+    "main.js": "/dorsin-0911-home-eight/static/js/main.7ea9ad6b.chunk.js",
+    "main.js.map": "/dorsin-0911-home-eight/static/js/main.7ea9ad6b.chunk.js.map",
+    "runtime-main.js": "/dorsin-0911-home-eight/static/js/runtime-main.59619cb4.js",
+    "runtime-main.js.map": "/dorsin-0911-home-eight/static/js/runtime-main.59619cb4.js.map",
+    "static/js/2.14c77bcf.chunk.js": "/dorsin-0911-home-eight/static/js/2.14c77bcf.chunk.js",
+    "static/js/2.14c77bcf.chunk.js.map": "/dorsin-0911-home-eight/static/js/2.14c77bcf.chunk.js.map",
+    "static/js/3.2af603b3.chunk.js": "/dorsin-0911-home-eight/static/js/3.2af603b3.chunk.js",
+    "static/js/3.2af603b3.chunk.js.map": "/dorsin-0911-home-eight/static/js/3.2af603b3.chunk.js.map",
+    "index.html": "/dorsin-0911-home-eight/index.html",
+    "static/css/main.12821e28.chunk.css.map": "/dorsin-0911-home-eight/static/css/main.12821e28.chunk.css.map",
+    "static/js/2.14c77bcf.chunk.js.LICENSE.txt": "/dorsin-0911-home-eight/static/js/2.14c77bcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59619cb4.js",
+    "static/js/2.14c77bcf.chunk.js",
+    "static/css/main.12821e28.chunk.css",
+    "static/js/main.7ea9ad6b.chunk.js"
+  ]
+}
